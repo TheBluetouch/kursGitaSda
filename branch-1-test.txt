@@ -1,5 +1,5 @@
 create new branch-1 and add branch-1-test.txt
 
 
-"to zmiana wprowadzona w branch-conflict-2 " :( 
+rozwiazalem wlasnie konflikt
 
