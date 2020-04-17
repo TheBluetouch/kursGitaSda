@@ -1,2 +1,4 @@
 create new branch-1 and add branch-1-test.txt
 
+
+"tu są zmiany wprowadzone w branchu branch-conflict" :) 
